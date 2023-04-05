@@ -1,4 +1,4 @@
-cask 'pdk' do
+cask 'pdk@2.6.0.0' do
   case MacOS.version
   when '10.14'
     os_ver = '10.14'
